@@ -9,3 +9,5 @@ npm i customize-cra react-app-rewired --save-dev
 npm install --save-dev babel-plugin-module-resolver 
 => add new file .babelrc
 => add new jsconfig.json 
+
+npm i normalize.css (reset css)
