@@ -11,3 +11,6 @@ npm install --save-dev babel-plugin-module-resolver
 => add new jsconfig.json 
 
 npm i normalize.css (reset css)
+
+npm i react-router-dom
+
